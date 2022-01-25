@@ -4,13 +4,12 @@ A simple Portfolio template for developer/designers built with React.
 
 ### [live preview](https://epha-portfolio.vercel.app/)
 
-![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)
 
 ### Setup
 
 Get the code.
 
- <pre>git clone https://github.com/ubai97/react-portfolio.git</pre>
+ <pre>git clonehttps://github.com/engida32/epha-portfolio-page.git</pre>
  
 Install required dependencies
 
