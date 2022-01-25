@@ -2,7 +2,7 @@
 
 A simple Portfolio template for developer/designers built with React. 
 
-### [live preview](https://ubai97.github.io/react-portfolio/)
+### [live preview](https://epha-portfolio.vercel.app/)
 
 ![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)
 
